@@ -1,5 +1,4 @@
 import { Check, X } from "lucide-react";
-import { Moon } from "lucide-react";
 import Image from "next/image";
 
 const features = [
